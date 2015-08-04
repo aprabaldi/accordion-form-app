@@ -1,0 +1,41 @@
+body {
+    background-color: #D2E1FF;
+}
+
+#accordion {
+    margin: 20px;
+    padding: 4px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 10px 2px #888888;
+    background-color: #FFFFFF;
+}
+
+.panel-default>.panel-heading {
+    color: #FFFFFF;
+    background-color: #F0AA0A;
+    border-color: rgb(234,183,72);
+    border-radius: 3px;
+}
+
+.panel-default {
+    border: none;
+    border-color: #FFFFFF;
+    background-color: rgb(222,222,222);
+    box-shadow: none;
+}
+
+.panel-body {
+    padding: 10px;
+}
+
+.next_button {
+    color: #FFFFFF;
+    background-color: rgb(87,84,170);
+    padding: 5px 35px;
+    border-radius: 10px;
+    float: right;
+}
+
+.container {
+    background-color: #FFFFFF;
+}
